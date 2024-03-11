@@ -1,0 +1,8 @@
+Link tag fetches data already when we hover there 
+color:inherit-> inherits text color from parents
+in jsx a classname can have two classname
+{ condition && value} ==> if the condition is meet than the value is assigned.. but if the condition is not meet then the value is not assigned.
+
+==> if both is true than it returns false 
+ relative=> its normal position 
+ absolut => with respect to its nearest positioned element 
